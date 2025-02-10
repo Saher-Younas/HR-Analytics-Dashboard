@@ -3,10 +3,7 @@
 # **HR Employees Distribution Dashboard**  
 
 ## **Overview**  
-This Power BI dashboard provides an analytical view of HR employee distributions across various demographics, including gender, age groups, department segmentation, and geographical locations. The dashboard is designed to help HR professionals and business leaders make informed decisions regarding workforce diversity, employment trends, and remote work patterns.  
-
----
-Here's a well-formatted **README section** for your **RAR dataset upload**:  
+This Power BI dashboard provides an analytical view of HR employee distributions across various demographics, including gender, age groups, department segmentation, and geographical locations. The dashboard is designed to help HR professionals and business leaders make informed decisions regarding workforce diversity, employment trends, and remote work patterns.   
 
 ---
 
