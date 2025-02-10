@@ -6,6 +6,24 @@
 This Power BI dashboard provides an analytical view of HR employee distributions across various demographics, including gender, age groups, department segmentation, and geographical locations. The dashboard is designed to help HR professionals and business leaders make informed decisions regarding workforce diversity, employment trends, and remote work patterns.  
 
 ---
+Here's a well-formatted **README section** for your **RAR dataset upload**:  
+
+---
+
+## **📂 Datasets Information**  
+This project includes multiple datasets used for HR analytics. To keep the repository organized, all datasets have been compressed into a **RAR file**.  
+
+### **🔹 How to Access the Datasets?**  
+1. **Download** the RAR file from the [`datasets`](https://github.com/Saher-Younas/HR-Analytics-Dashboard/blob/main/Dataset_used.rar) folder.  
+2. **Extract** the file using tools like [WinRAR](https://www.win-rar.com/) or [7-Zip](https://www.7-zip.org/).  
+3. Inside, you’ll find the **CSV files** used for data visualization in the Power BI dashboard.  
+
+### **📌 Note:**  
+- Ensure you extract the file before using the datasets.  
+- If you face any issues, feel free to raise an **issue** in the repository.  
+
+---
+
 ## **Dashboard Preview**
 ![HR_Employee_Distribution_Dashboard](https://github.com/user-attachments/assets/640287f9-a5b3-4c75-a461-8683e752c4a7)
  
