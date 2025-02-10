@@ -10,15 +10,15 @@ Here's a well-formatted **README section** for your **RAR dataset upload**:
 
 ---
 
-## **📂 Datasets Information**  
+## ** Datasets Information**  
 This project includes multiple datasets used for HR analytics. To keep the repository organized, all datasets have been compressed into a **RAR file**.  
 
-### **🔹 How to Access the Datasets?**  
-1. **Download** the RAR file from the [`datasets`](https://github.com/Saher-Younas/HR-Analytics-Dashboard/blob/main/Dataset_used.rar) folder.  
+### ** How to Access the Datasets?**  
+1. **Download** the RAR file from the [`Dataset_used`](https://github.com/Saher-Younas/HR-Analytics-Dashboard/blob/main/Dataset_used.rar) folder.  
 2. **Extract** the file using tools like [WinRAR](https://www.win-rar.com/) or [7-Zip](https://www.7-zip.org/).  
 3. Inside, you’ll find the **CSV files** used for data visualization in the Power BI dashboard.  
 
-### **📌 Note:**  
+### ** Note:**  
 - Ensure you extract the file before using the datasets.  
 - If you face any issues, feel free to raise an **issue** in the repository.  
 
