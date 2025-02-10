@@ -7,7 +7,8 @@ This Power BI dashboard provides an analytical view of HR employee distributions
 
 ---
 ## **Dashboard Preview**
-![HR Employees Dashboard](./https://github.com/Saher-Younas/HR-Analytics-Dashboard/blob/main/HR_Employee_Distribution_Dashboard.JPG)  
+![HR_Employee_Distribution_Dashboard](https://github.com/user-attachments/assets/640287f9-a5b3-4c75-a461-8683e752c4a7)
+ 
 
 
 
